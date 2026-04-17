@@ -32,4 +32,5 @@ https://github.com/0xRuslanPepe
 ### Связь
 
 Telegram: @RuslanPepe
+
 Email: [yypaau@gmail.com](mailto:yypaau@gmail.com)
